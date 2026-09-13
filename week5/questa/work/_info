@@ -1,0 +1,263 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1787493208
+VlX2HWTVkm;3UCVUG:2ho82
+04 18 4 work s_type_datapath_tb fast 0
+=1-c403a8aa6e32-6a8afb58-26c-534c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+valu
+Z1 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z2 !s110 1787493084
+!i10b 1
+!s100 g[d@3ECO_`_imR7GU78[j0
+Id0@mme`iS7@8Dmid5amXU3
+S1
+Z3 dD:/HiraHameed/hicoar/Risc_v/week5/questa
+w1786382964
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/alu_module.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/alu_module.sv
+!i122 0
+L0 1 26
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1787493084.000000
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/alu_module.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/alu_module.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+valu_2nd_controller
+R1
+Z8 !s110 1787493085
+!i10b 1
+!s100 ]O13PeVN=Alf?h^W1j2F?2
+IFA8A]L7=e;OQ2Vd=T0Hnc0
+S1
+R3
+w1787491169
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/second_level_cnt.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/second_level_cnt.sv
+!i122 7
+L0 1 75
+R4
+R5
+r1
+!s85 0
+31
+Z9 !s108 1787493085.000000
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/second_level_cnt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/second_level_cnt.sv|
+!i113 0
+R7
+R0
+vdmem
+R1
+R2
+!i10b 1
+!s100 VH:[_iEgiR?fKEPb_Vb[;0
+IaZ0n<LBmfhz<eGBVz7WM33
+S1
+R3
+w1787491463
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/dmem.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/dmem.sv
+!i122 1
+L0 1 21
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/dmem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/dmem.sv|
+!i113 0
+R7
+R0
+vfirst_level_controller
+R1
+R2
+!i10b 1
+!s100 1NjRZIgId^[EOOzj=]3iX3
+Ikgzia@P>n]?<MGd82a4F63
+S1
+R3
+w1786382949
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/first_level_cnt.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/first_level_cnt.sv
+!i122 2
+L0 1 17
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/first_level_cnt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/first_level_cnt.sv|
+!i113 0
+R7
+R0
+vimem
+R1
+R2
+!i10b 1
+!s100 NUJ1?ZAJU;4[[E8hWb@3L3
+INHS@NU8gl;AngWlW_?NWc2
+S1
+R3
+w1787491673
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imem.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imem.sv
+!i122 3
+L0 1 13
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imem.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imem.sv|
+!i113 0
+R7
+R0
+vimm_gen
+R1
+R2
+!i10b 1
+!s100 Yod^>WDDNb;fO]Tz@fl2;2
+IYChVgoAjR?L_>cWF0[o=Q3
+S1
+R3
+w1785770198
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imm_Gen.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imm_Gen.sv
+!i122 4
+L0 1 51
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imm_Gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/imm_Gen.sv|
+!i113 0
+R7
+R0
+vpc
+R1
+R2
+!i10b 1
+!s100 KAV`joG[n9XY^XlP1WIdG3
+IFCYe:k=FebTUdYkco:1<H2
+S1
+R3
+w1786344075
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/pc.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/pc.sv
+!i122 5
+L0 1 12
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/pc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/pc.sv|
+!i113 0
+R7
+R0
+vReg_file
+R1
+R8
+!i10b 1
+!s100 `LX]JFfIX^>IIAa`J5jkH2
+I9fONT8?b?Q61:f58bd]]V2
+S1
+R3
+w1786383325
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/Reg_file.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/Reg_file.sv
+!i122 6
+L0 1 18
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/Reg_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/Reg_file.sv|
+!i113 0
+R7
+R0
+n@reg_file
+vs_type_datapath
+R1
+R8
+!i10b 1
+!s100 iaOhB::RJW:HzRJa5@kke3
+I;nIWa7bKXjTE<]b:[4[=52
+S1
+R3
+w1787492258
+8D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/stype_datapath.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/stype_datapath.sv
+!i122 8
+L0 1 94
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/stype_datapath.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/src/s_type_datapath/stype_datapath.sv|
+!i113 0
+R7
+R0
+vs_type_datapath_tb
+R1
+R8
+!i10b 1
+!s100 z<Ye?Y@PEkYLI@Dl2]JJT1
+IZ_FQTVD5ab9=YH2<agQ0<0
+S1
+R3
+w1787492837
+8D:/HiraHameed/hicoar/Risc_v/week5/sim/s_type_datapath_tb.sv
+FD:/HiraHameed/hicoar/Risc_v/week5/sim/s_type_datapath_tb.sv
+!i122 9
+L0 3 65
+R4
+R5
+r1
+!s85 0
+31
+R9
+!s107 D:/HiraHameed/hicoar/Risc_v/week5/sim/s_type_datapath_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week5/sim/s_type_datapath_tb.sv|
+!i113 0
+R7
+R0
