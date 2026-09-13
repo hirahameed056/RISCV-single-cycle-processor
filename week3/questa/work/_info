@@ -1,0 +1,71 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/HiraHameed/hicoar/cep/memory_controller/questa
+T_opt
+!s110 1785855429
+Vlg;JTfARoXP53R?LL9bjK1
+04 10 4 work imm_gen_tb fast 0
+=1-c403a8aa6e32-6a71fdc4-da-6630
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vimm_gen
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1785855417
+!i10b 1
+!s100 Yod^>WDDNb;fO]Tz@fl2;2
+IX[;N4Y2KYZUKjQIPjNF<b3
+S1
+Z4 dD:/HiraHameed/hicoar/Risc_v/week3/questa
+w1785770198
+8D:/HiraHameed/hicoar/Risc_v/week3/src/imm_Gen.sv
+FD:/HiraHameed/hicoar/Risc_v/week3/src/imm_Gen.sv
+!i122 5
+L0 1 51
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+!s108 1785855416.000000
+!s107 D:/HiraHameed/hicoar/Risc_v/week3/src/imm_Gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week3/src/imm_Gen.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vimm_gen_tb
+R2
+R3
+!i10b 1
+!s100 ijT6^BIZ=:d_8NRzZ6[Lk1
+ITL@VeXfSKYZIc1i<5MjHz1
+S1
+R4
+w1785855215
+8D:/HiraHameed/hicoar/Risc_v/week3/sim/imm_Gen_tb.sv
+FD:/HiraHameed/hicoar/Risc_v/week3/sim/imm_Gen_tb.sv
+!i122 6
+L0 1 211
+R5
+R6
+r1
+!s85 0
+31
+!s108 1785855417.000000
+!s107 D:/HiraHameed/hicoar/Risc_v/week3/sim/imm_Gen_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week3/sim/imm_Gen_tb.sv|
+!i113 0
+R7
+R1

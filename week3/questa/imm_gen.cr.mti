@@ -1,0 +1,15 @@
+D:/HiraHameed/hicoar/Risc_v/week3/sim/imm_Gen_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week3/sim/imm_Gen_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imm_gen_tb
+
+Top level modules:
+	imm_gen_tb
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week3/src/imm_Gen.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week3/src/imm_Gen.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}}
