@@ -1,0 +1,43 @@
+D:/HiraHameed/hicoar/Risc_v/week6/src/pc.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week6/src/pc.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week6/sim/j_type_datapath_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week6/sim/j_type_datapath_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module j_type_datapath_tb
+
+Top level modules:
+	j_type_datapath_tb
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week6/src/imem.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week6/src/imem.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week6/src/imm_Gen.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week6/src/imm_Gen.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week6/src/J_type_datapath.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week6/src/J_type_datapath.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module j_type_datapath
+
+Top level modules:
+	j_type_datapath
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week6/src/Reg_file.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week6/src/Reg_file.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Reg_file
+
+Top level modules:
+	Reg_file
+
+} {} {}}
