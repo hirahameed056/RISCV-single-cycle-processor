@@ -1,0 +1,57 @@
+D:/HiraHameed/hicoar/Risc_v/week4/src/Reg_file.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/Reg_file.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Reg_file
+
+Top level modules:
+	Reg_file
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/second_level_cnt.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/second_level_cnt.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu_2nd_controller
+
+Top level modules:
+	alu_2nd_controller
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/pc.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/pc.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/first_level_cnt.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/first_level_cnt.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module first_level_controller
+
+Top level modules:
+	first_level_controller
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/alu_module.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/alu_module.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/imm_Gen.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/imm_Gen.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/i_type_datapath.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/i_type_datapath.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Itype_datapath
+
+Top level modules:
+	Itype_datapath
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week4/src/imem.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week4/src/imem.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}}
