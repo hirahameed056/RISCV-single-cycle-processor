@@ -1,0 +1,29 @@
+D:/HiraHameed/hicoar/Risc_v/week2/codes/cnt_tb.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week2/codes/cnt_tb.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module cnt_tb
+
+Top level modules:
+	cnt_tb
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week2/codes/second_level_cnt.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week2/codes/second_level_cnt.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu_2nd_controller
+
+Top level modules:
+	alu_2nd_controller
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week2/codes/first_level_cnt.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week2/codes/first_level_cnt.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module first_level_controller
+
+Top level modules:
+	first_level_controller
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week2/codes/alu_module.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week2/codes/alu_module.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}

@@ -1,0 +1,119 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1785090326
+VF@OZ[N=FFK7bMXPXP8;MO1
+04 6 4 work cnt_tb fast 0
+=1-c403a8aa6e32-6a665115-347-3878
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+valu
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1785090307
+!i10b 1
+!s100 BX90[H:M_FEmbSPO_FGIM1
+ILCdlC`_N=nMja<EzO4N[11
+S1
+Z4 dD:/HiraHameed/hicoar/Risc_v/week2/questa
+w1785090061
+8D:/HiraHameed/hicoar/Risc_v/week2/codes/alu_module.sv
+FD:/HiraHameed/hicoar/Risc_v/week2/codes/alu_module.sv
+!i122 8
+L0 1 26
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1785090307.000000
+!s107 D:/HiraHameed/hicoar/Risc_v/week2/codes/alu_module.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week2/codes/alu_module.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+valu_2nd_controller
+R2
+!s110 1785090308
+!i10b 1
+!s100 9[_2V?Qkz9Za1UB_J4Y:J1
+IEoIc5MU]LCfFKUKP]?DhH3
+S1
+R4
+w1785055743
+8D:/HiraHameed/hicoar/Risc_v/week2/codes/second_level_cnt.sv
+FD:/HiraHameed/hicoar/Risc_v/week2/codes/second_level_cnt.sv
+!i122 11
+L0 1 75
+R5
+R6
+r1
+!s85 0
+31
+!s108 1785090308.000000
+!s107 D:/HiraHameed/hicoar/Risc_v/week2/codes/second_level_cnt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week2/codes/second_level_cnt.sv|
+!i113 0
+R8
+R1
+vcnt_tb
+R2
+R3
+!i10b 1
+!s100 TlGXfMa=CB[H^jU7<lGg;1
+I>:7>;l3bze4j5``M5ACof2
+S1
+R4
+w1785090300
+8D:/HiraHameed/hicoar/Risc_v/week2/codes/cnt_tb.sv
+FD:/HiraHameed/hicoar/Risc_v/week2/codes/cnt_tb.sv
+!i122 9
+L0 1 102
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/HiraHameed/hicoar/Risc_v/week2/codes/cnt_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week2/codes/cnt_tb.sv|
+!i113 0
+R8
+R1
+vfirst_level_controller
+R2
+R3
+!i10b 1
+!s100 iiXm9K@3TiRMU>V:jk]8^1
+IoJUEOA`jI>_ceK9IkPHd;2
+S1
+R4
+w1784959576
+8D:/HiraHameed/hicoar/Risc_v/week2/codes/first_level_cnt.sv
+FD:/HiraHameed/hicoar/Risc_v/week2/codes/first_level_cnt.sv
+!i122 10
+L0 1 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/HiraHameed/hicoar/Risc_v/week2/codes/first_level_cnt.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/HiraHameed/hicoar/Risc_v/week2/codes/first_level_cnt.sv|
+!i113 0
+R8
+R1
