@@ -1,0 +1,71 @@
+D:/HiraHameed/hicoar/Risc_v/week7/src/alu_module.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/alu_module.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/dmem.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/dmem.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/first_level_cnt.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/first_level_cnt.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module first_level_controller
+
+Top level modules:
+	first_level_controller
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/pc.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/pc.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/second_level_cnt.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/second_level_cnt.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu_2nd_controller
+
+Top level modules:
+	alu_2nd_controller
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/imem.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/imem.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/imm_Gen.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/imm_Gen.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} {D:/HiraHameed/hicoar/Risc_v/week7/sim/single_cycle_proc_tb_automated .sv} {1 {vlog -work work -vopt -sv -stats=none {D:/HiraHameed/hicoar/Risc_v/week7/sim/single_cycle_proc_tb_automated .sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module single_cycle_proc_tb_auto
+
+Top level modules:
+	single_cycle_proc_tb_auto
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/Reg_file.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/Reg_file.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Reg_file
+
+Top level modules:
+	Reg_file
+
+} {} {}} D:/HiraHameed/hicoar/Risc_v/week7/src/riscv_datapath.sv {1 {vlog -work work -vopt -sv -stats=none D:/HiraHameed/hicoar/Risc_v/week7/src/riscv_datapath.sv
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module riscv_datapath
+
+Top level modules:
+	riscv_datapath
+
+} {} {}}
